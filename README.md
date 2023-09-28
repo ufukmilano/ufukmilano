@@ -10,6 +10,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ufukmilano&show_icons=true&locale=en&layout=compact" alt="ufukmilano" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ufukmilano&show_icons=true&locale=en" alt="ufukmilano" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ufukmilano&show_icons=true&locale=en" alt="ufukmilano" /></p> 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ufukmilano&" alt="ufukmilano" /></p>
