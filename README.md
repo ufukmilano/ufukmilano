@@ -1,2 +1,2 @@
- [![MasterHead](https://medium.com/@mohammadusmandelhi/the-top-customer-service-solution-is-salesforce-service-cloud-because-of-these-9-features-b4b6fbbd2614)
+ [![MasterHead](https://inno3.it/2023/06/16/salesforce-ai-cloud-intelligenza-generativa-per-il-crm/)
 
