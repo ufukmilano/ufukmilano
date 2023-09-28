@@ -1,4 +1,4 @@
-[![MasterHead]([https://supersourcing.com/blog/everything-you-need-to-know-to-hire-a-salesforce-developer/](https://www.daffodilsw.com/wp-content/uploads/2020/09/banner.jpg))
+ [![MasterHead]([http:ile istediginiz fotoğrafın linkini buraya yazın](https://www.daffodilsw.com/wp-content/uploads/2020/09/banner.jpg))
 <h3 align="center">Ufuk Aksoy</h3>
 
 <h3 align="left">Connect with me:</h3>
