@@ -2,12 +2,4 @@
 
  
  
-dg
-rw
-rgr
-rg
-grtg
-d
-rgr
-gr
-rg
+ 
