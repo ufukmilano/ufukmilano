@@ -3,12 +3,4 @@
  
  
  
-bf fb
-fb
-fgb
-fbg
-db
-db
-db
-b
-b
+b 
