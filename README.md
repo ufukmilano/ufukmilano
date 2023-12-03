@@ -13,5 +13,5 @@ gn
 n
 ng
 ng
-ngd
+ngdng
 ng
