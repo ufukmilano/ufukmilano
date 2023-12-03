@@ -3,15 +3,4 @@
  
  
  
-  
- fg
-gn
-gn
-gn
-gn
-gn
-n
-nggn
-ng
-ngdngfngn
-ng
+ 
