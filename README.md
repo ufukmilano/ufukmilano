@@ -11,7 +11,7 @@ gn
 gn
 gn
 n
-ng
+nggn
 ng
 ngdng
 ng
